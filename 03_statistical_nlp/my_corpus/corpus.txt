@@ -1,0 +1,3 @@
+Natural language processing works with human language.
+A text corpus contains examples of language.
+Researchers use corpora to study words and patterns.
